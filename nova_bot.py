@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-  """N.O.V.A BOT LOCAL - Agente Ejecutor con Mejora Continua para Denison The Necio
-     v5.0 — Memoria Extendida Local, Análisis Continuo, Aprendizaje, Optimización
-  """
+"""N.O.V.A BOT LOCAL - Agente Ejecutor con Mejora Continua para Denison The Necio
+    v5.0 — Memoria Extendida Local, Análisis Continuo, Aprendizaje, Optimización
+"""
 
   import sys, os, json, time, base64, platform, subprocess, threading, shlex
   from io import BytesIO
